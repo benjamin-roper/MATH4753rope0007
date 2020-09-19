@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-addone=function(x){
+addone = function(x){
   x+1
 }
 
