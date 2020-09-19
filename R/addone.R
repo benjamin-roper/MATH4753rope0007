@@ -5,7 +5,7 @@
 #' @return X + 1
 #' @export
 #'
-#' @examples
+#' @examples /dontrun{addone(2)}
 addone = function(x){
   x+1
 }
