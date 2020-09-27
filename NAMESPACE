@@ -2,4 +2,7 @@
 
 export(addone)
 export(bmi3)
+export(mybin)
 export(myplot)
+importFrom(grDevices,rainbow)
+importFrom(graphics,barplot)
