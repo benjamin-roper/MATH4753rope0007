@@ -3,6 +3,7 @@
 export(addone)
 export(bmi3)
 export(mybin)
+export(myncurve)
 export(myplot)
 importFrom(grDevices,rainbow)
 importFrom(graphics,barplot)
